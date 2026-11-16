@@ -15,3 +15,8 @@ A hands-on exploration of computer fundamentals, Terminal commands, operating sy
 
 ## Workflow
 Each mission is completed, documented inside its own folder, and committed separately in order.
+
+## My Learning
+- Learned how to navigate directories, inspect permissions, and combine Terminal commands using flags and pipes.
+- Practised tracking operating system processes, storage, and paths safely without exposing personal data.
+- Built Python scripts to run programs from the CLI and convert numbers between decimal, binary, and hexadecimal.
