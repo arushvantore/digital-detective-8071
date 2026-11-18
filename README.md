@@ -1,4 +1,4 @@
-# The Digital Detective — Diwali Independent Learning Assignment
+# The Digital Detective 
 
 A hands-on system exploration project covering computer fundamentals (IPOS), command-line navigation and file operations, operating system processes and permissions, program execution (compilers vs. interpreters), number systems and text encoding, Git workflows (branches and Pull Requests), and computer networking.
 
